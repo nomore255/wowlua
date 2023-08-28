@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: AddonName
+## Notes: Small Addon Description
+## Author: Your Name
+## Version: @project-version@
+
+AddonName.xml
+AddonName.lua

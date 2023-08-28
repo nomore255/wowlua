@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: WowXMLExample
+## Notes: Example addon of my programming
+## Author: Wutong
+## Version: @0.01@
+
+WowXMLExample.xml
+#AddonName.lua
